@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Poppins:ital,wght@0,200;0,500;1,100;1,400&family=Roboto&display=swap');
+
+/* css di index.php */
+*{
+
+    font-family: 'Mooli', sans-serif;
+}
+
+.row.text-center{
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+    /* margin-top: 200px; */
+    /* background-color: aliceblue; */
+}
+
+.d-block.mt-4 {
+    color: black;
+    font-weight: 500;
+}
+
+
+/* css di fakultas.php */
+.akademik-univ {
+    font-weight: bold;
+    width: fit-content;
+}
+
+.fakultas {
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+
+.h3-eb,.h3-kb {
+    padding-top: 50px;
+}
+
+.p-5.bg-info-subtle,.p-5.bg-warning-subtle,.p-5.bg-dark-subtle {
+    font-weight: bold;
+    
+}
+
+.visi-misi-ti,.visi-misi-eb,.visi-misi-kb {
+    text-align: left;
+    padding-top: 10px;
+}
+
+.py-5.bg-info-subtle,.p-5.bg-warning-subtle,.p-5.bg-dark-subtle {
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding-top: 10%;
+}
